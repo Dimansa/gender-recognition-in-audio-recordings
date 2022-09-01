@@ -1,4 +1,4 @@
-importimport amfm_decompy.pYAAPT as pYAAPT
+import amfm_decompy.pYAAPT as pYAAPT
 import amfm_decompy.basic_tools as basic
 pitchY = [0]
 s = 0
